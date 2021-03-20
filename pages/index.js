@@ -6,6 +6,9 @@ function Home(){
         <Link href="/sobre">
             <a>Pagina sobre</a>
         </Link>
+        <Link href="/tempo">
+            <a>Pagina tempo</a>
+        </Link>
     </div>)
 }
 export default Home
