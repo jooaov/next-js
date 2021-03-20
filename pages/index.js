@@ -9,6 +9,9 @@ function Home(){
         <Link href="/tempo">
             <a>Pagina tempo</a>
         </Link>
+        <Link href="/api/tempo">
+            <a>api tempo</a>
+        </Link>
     </div>)
 }
 export default Home
